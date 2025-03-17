@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-17T22:19:53 GMT+03:00" name="Default suite" finished-at="2025-03-17T22:20:28 GMT+03:00" duration-ms="34334">
+    <groups>
+    </groups>
+    <test started-at="2025-03-17T22:19:53 GMT+03:00" name="Default test" finished-at="2025-03-17T22:20:28 GMT+03:00" duration-ms="34334">
+      <class name="testBookStore">
+        <test-method is-config="true" signature="befor()[pri:0, instance:testBookStore@54d18072]" started-at="2025-03-17T22:19:53 GMT+03:00" name="befor" finished-at="2025-03-17T22:20:00 GMT+03:00" duration-ms="6350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befor -->
+        <test-method signature="testListGridChanges()[pri:1, instance:testBookStore@54d18072]" started-at="2025-03-17T22:20:00 GMT+03:00" name="testListGridChanges" finished-at="2025-03-17T22:20:00 GMT+03:00" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testListGridChanges -->
+        <test-method signature="testAddtochartButton()[pri:2, instance:testBookStore@54d18072]" started-at="2025-03-17T22:20:00 GMT+03:00" name="testAddtochartButton" finished-at="2025-03-17T22:20:09 GMT+03:00" duration-ms="8947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddtochartButton -->
+        <test-method signature="testCheckoutButton()[pri:3, instance:testBookStore@54d18072]" started-at="2025-03-17T22:20:09 GMT+03:00" name="testCheckoutButton" finished-at="2025-03-17T22:20:11 GMT+03:00" duration-ms="2601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckoutButton -->
+        <test-method signature="testDetailsButton()[pri:4, instance:testBookStore@54d18072]" started-at="2025-03-17T22:20:11 GMT+03:00" name="testDetailsButton" finished-at="2025-03-17T22:20:19 GMT+03:00" duration-ms="7741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetailsButton -->
+        <test-method signature="testSearchBox()[pri:5, instance:testBookStore@54d18072]" started-at="2025-03-17T22:20:19 GMT+03:00" name="testSearchBox" finished-at="2025-03-17T22:20:21 GMT+03:00" duration-ms="1420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchBox -->
+        <test-method signature="testSearchBox()[pri:5, instance:testBookStore@54d18072]" started-at="2025-03-17T22:20:21 GMT+03:00" name="testSearchBox" finished-at="2025-03-17T22:20:22 GMT+03:00" duration-ms="1285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchBox -->
+        <test-method signature="testSearchBox()[pri:5, instance:testBookStore@54d18072]" started-at="2025-03-17T22:20:22 GMT+03:00" name="testSearchBox" finished-at="2025-03-17T22:20:23 GMT+03:00" duration-ms="1277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchBox -->
+        <test-method signature="testSearchBox()[pri:5, instance:testBookStore@54d18072]" started-at="2025-03-17T22:20:23 GMT+03:00" name="testSearchBox" finished-at="2025-03-17T22:20:25 GMT+03:00" duration-ms="1593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchBox -->
+        <test-method signature="testLogoutbutton()[pri:6, instance:testBookStore@54d18072]" started-at="2025-03-17T22:20:25 GMT+03:00" name="testLogoutbutton" finished-at="2025-03-17T22:20:27 GMT+03:00" duration-ms="2545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogoutbutton -->
+        <test-method is-config="true" signature="after()[pri:0, instance:testBookStore@54d18072]" started-at="2025-03-17T22:20:27 GMT+03:00" name="after" finished-at="2025-03-17T22:20:28 GMT+03:00" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- testBookStore -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
